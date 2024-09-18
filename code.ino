@@ -1,6 +1,6 @@
 //part 1: ----------------------------------------
 #include <OneWire.h>
-#include <DallasTemperature.h>
+#include <DallasTemperature.h>   // importing the libraries
 
 //part 2:-----------------------------------------
 
@@ -24,10 +24,10 @@ void loop(){
   sensors.requestTemperatures();
   float tempC = sensors.getTempCByIndex(0);
 
-  Serial.print("dama:");
+  Serial.print("Temperature:");
   Serial.println("");
   Serial.print(tempC);
-  Serial.print("daraje:");
+  Serial.print("value:");
   //delay(1000);
 
   if (tempC > 43.00){
