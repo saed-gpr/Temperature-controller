@@ -1,4 +1,8 @@
 # :red_circle: Temperature-controller
-it is just a project for improve your skills in Arduino UNO, C language and assembling knowledge :exclamation:
-Imagine a situation where you want to have control over the temperature of a room :exclamation:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  </a>
+</p>
+more details will be coming soon :exclamation:
 
