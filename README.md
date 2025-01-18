@@ -6,9 +6,9 @@ In this project, we aim to design and implement a system capable of maintaining 
 
 ### The project includes:
 
-- [Detailed schematics for circuit design]()
-- [Well-documented Arduino code for real-time control and monitoring](#Well-documented_Arduino_code_for_real-time_control_and_monitoring)
-- [A step-by-step guide for assembling and testing the system](#A_step-by-step_guide_for_assembling_and_testing_the_system)
+- [Detailed schematics for circuit design]
+- [Well-documented Arduino code for real-time control and monitoring]
+- [A step-by-step guide for assembling and testing the system]
 
 This solution can be applied in smart homes, greenhouses, or any environment where precise temperature control is essential.
 
