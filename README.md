@@ -22,5 +22,5 @@ This solution can be applied in smart homes, greenhouses, or any environment whe
 
 ![Presentation1 pptx - PowerPoint (Product Activation Failed) 1_18_2025 10_28_02 AM (2)](https://github.com/user-attachments/assets/ee7c075c-7c01-46a7-b769-b1c0babae39d)
 
-
+#
 Author : [Saed Gholipour](https://github.com/saed-gpr)
